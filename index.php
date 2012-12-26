@@ -5,7 +5,7 @@
         echo '</head>';
         echo '<body>';
         echo '<table border="1" cellpadding="0" cellspacing="0" width="100%" height="100%">';
-        echo '<tr>  <th colspan=2>header</th>  </tr>';
+        echo '<tr>  <th colspan=2>Hello! The new HEADER will be here!</th>  </tr>';
         echo '<tr>
                 <td width="25%" height="100%" valign="top">
                 <ul>
