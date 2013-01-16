@@ -1,2 +1,11 @@
+body
+{
+  font-family: Arial;
+}
 
-
+#copyright
+{
+  color: #ffffff;
+  font-size: 18pt;
+  font-weight: bold;
+}
