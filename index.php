@@ -16,7 +16,10 @@
                 </td>
                 <td width="75%" height="100%" valign="top">content</td>
               </tr>';
-        echo '<tr> <td colspan=3>footer</td> </tr>';
+        echo '<tr> <td colspan=3 bgcolor="#fa8e47" height = "20%"> <span id="copyright">&copy "Фирма Рога и Копыта"</span> 
+        	<br> <a href = "http://ru.wikipedia.org/wiki/Рога_и_копыта"> О нас </a> &nbsp &nbsp <a href = "http://www.apple.com"> Apple </a> 
+                <br> <a href = "http://www.google.ru/"> Google </a> &nbsp &nbsp <a href ="http://www.yandex.ru/"> Yandex </a>
+	        </td> </tr>';
         echo '</table>';
 ?>
 
