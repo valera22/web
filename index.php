@@ -10,9 +10,9 @@
         echo '<tr>
                 <td width="25%" height="100%" valign="top">
                 <ul>
-                        <li><a href="index.html" title="Ссылка">link</a></li>
-                        <li><a href="index.html" title="Ссылка">link</a></li>
-                        <li><a href="index.html" title="Ссылка">link</a></li>
+                        <li><a href="index.html" title="биография">link</a></li>
+                        <li><a href="index.html" title="биография">link</a></li>
+                        <li><a href="index.html" title="биография">link</a></li>
                 </ul>
                 </td>
                 <td width="75%" height="100%" valign="top">content</td>
